@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage">
+
+    <Grid>
+        <Image Source="https://i.ibb.co/2k4TR2v/image.png" Aspect="AspectFill" />
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Image Source="https://i.ibb.co/yP1FSwp/logo-removebg-preview.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Entry Placeholder="Usuario" />
+            <Entry Placeholder="Contraseña" IsPassword="True" />
+            <Button Text="Iniciar Sesión"   />
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
