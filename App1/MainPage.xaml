@@ -9,7 +9,7 @@
             <Image Source="https://i.ibb.co/yP1FSwp/logo-removebg-preview.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
             <Entry Placeholder="Usuario" />
             <Entry Placeholder="Contraseña" IsPassword="True" />
-            <Button Text="Iniciar Sesión"   />
+            <Button Text="Iniciar Sesión"  Clicked="Button_Clicked"  />
         </StackLayout>
     </Grid>
 

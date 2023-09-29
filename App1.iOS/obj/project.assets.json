@@ -175,8 +175,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -360,8 +360,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -545,8 +545,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -730,8 +730,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -915,8 +915,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.8.0",
+          "Xamarin.Forms": "5.0.0.2612"
         },
         "compile": {
           "bin/placeholder/App1.dll": {}
@@ -1247,24 +1247,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\driner tn\\.nuget\\packages\\": {},
+    "C:\\Users\\FACTMYPE\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\driner tn\\source\\repos\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "C:\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
       "projectName": "App1.iOS",
-      "projectPath": "C:\\Users\\driner tn\\source\\repos\\App1\\App1.iOS\\App1.iOS.csproj",
-      "packagesPath": "C:\\Users\\driner tn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\driner tn\\source\\repos\\App1\\App1.iOS\\obj\\",
+      "projectPath": "C:\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
+      "packagesPath": "C:\\Users\\FACTMYPE\\.nuget\\packages\\",
+      "outputPath": "C:\\empresaAgua\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\driner tn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FACTMYPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\driner tn\\source\\repos\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\driner tn\\source\\repos\\App1\\App1\\App1.csproj"
+            "C:\\empresaAgua\\App1\\App1.csproj": {
+              "projectPath": "C:\\empresaAgua\\App1\\App1.csproj"
             }
           }
         }
@@ -1313,5 +1313,35 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.8.0 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n App1.iOS -> App1 -> Xamarin.Essentials (>= 1.8.0) \r\n App1.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2612 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n App1.iOS -> App1 -> Xamarin.Forms (>= 5.0.0.2612) \r\n App1.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

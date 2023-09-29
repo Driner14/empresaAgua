@@ -4,5 +4,6 @@
     <SelectedDevice>LGE LM-K200</SelectedDevice>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
     <ActiveDebugProfile>LGE LM-K200 %28Android 10.0 - API 29%29</ActiveDebugProfile>
+    <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
   </PropertyGroup>
 </Project>
