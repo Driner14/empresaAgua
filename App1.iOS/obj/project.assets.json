@@ -1247,24 +1247,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FACTMYPE\\.nuget\\packages\\": {},
+    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\OneDrive - SENATI\\Desktop\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
       "projectName": "App1.iOS",
-      "projectPath": "C:\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
-      "packagesPath": "C:\\Users\\FACTMYPE\\.nuget\\packages\\",
-      "outputPath": "C:\\empresaAgua\\App1.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Alumno\\OneDrive - SENATI\\Desktop\\empresaAgua\\App1.iOS\\App1.iOS.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alumno\\OneDrive - SENATI\\Desktop\\empresaAgua\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\FACTMYPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\empresaAgua\\App1\\App1.csproj": {
-              "projectPath": "C:\\empresaAgua\\App1\\App1.csproj"
+            "C:\\Users\\Alumno\\OneDrive - SENATI\\Desktop\\empresaAgua\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\Alumno\\OneDrive - SENATI\\Desktop\\empresaAgua\\App1\\App1.csproj"
             }
           }
         }
